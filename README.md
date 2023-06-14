@@ -3,7 +3,7 @@
 
 ## Intro
 
-Provide a system to automate processes in VMO personnel management
+Provide a system to automate processes in Hospital
 
 ## Project Structure
 
